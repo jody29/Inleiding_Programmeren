@@ -1,0 +1,238 @@
+nav {
+    background-color: white;
+    display: flex;
+    font-family: sans-serif;
+    box-shadow: 0 4px 4px 0 rgba(68, 68, 68, 0.6);
+    position: fixed;
+    top: 0;
+    width: 100vw;
+}
+
+nav img {
+    height: 80px;
+    margin: 10px 10px 0 20px;
+}
+
+nav h1 {
+    font-size: 25pt;
+    margin-left: 30px;
+}
+
+html {
+    background-color: white;
+}
+
+body {
+    margin: 0;
+    background-color: ghostwhite;
+}
+
+nav img.winkel {
+    height: 50px;
+    margin: 25px 30px 20px 550px;
+}
+
+nav img.winkel:hover {
+    cursor: pointer;
+}
+
+main img#playstation {
+    height: 200px;
+    position: absolute;
+    left: 150px;
+    top: 250px;  
+}
+
+#colorcontainer {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    top: 150px;
+    left: 700px;
+    background-color: steelblue;
+    padding: 25px;
+    color: white;
+    font-family: sans-serif;
+    box-shadow: 0 4px 4px 0 rgba(68, 68, 68, 0.5);
+    border-radius: 10px;
+}
+
+#colorcontainer ul {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    padding: 0;
+}
+
+#colorcontainer img {
+    height: 30px;
+    border: 2px solid white;
+    box-shadow: 0 4px 4px 0 rgba(68, 68, 68, 0.5);
+}
+
+#colorcontainer img:hover {
+    cursor: pointer;
+}
+
+#shoppingcart {
+    background-color: gainsboro;
+    width: 400px;
+    height: 200px;
+    position: fixed;
+    top: 200px;
+    padding: 10px;
+    right: 450px;
+    z-index: 100;
+    font-family: sans-serif;
+}
+
+#shoppingcart h2 {
+    text-align: center;
+    padding: 90px 10px;
+    margin: 0;
+}
+
+#shoppingcart h3 {
+    position: fixed;
+    font-size: 25pt;
+    top: 170px;
+    color: black;
+    width: 50px;
+}
+
+#shoppingcart h3:hover {
+    cursor: pointer;
+}
+
+#fullshoppingcart {
+    background-color: gainsboro;
+    width: 400px;
+    height: 200px;
+    position: fixed;
+    top: 200px;
+    padding: 10px;
+    right: 450px;
+    z-index: 100;
+    font-family: sans-serif;
+}
+
+#fullshoppingcart img {
+    text-align: center;
+    padding: 90px 10px;
+    margin: 0;
+    width: 80px;
+}
+
+#fullshoppingcart b {
+    position: absolute;
+    top: 95px;
+    padding-left: 5px;
+    z-index: 100;
+}
+
+#fullshoppingcart p {
+    position: absolute;
+    top: 105px;
+    padding-left: 105px;
+}
+
+#fullshoppingcart h3 {
+    position: fixed;
+    font-size: 25pt;
+    top: 170px;
+    color: black;
+    width: 50px;
+}
+
+#fullshoppingcart button {
+    position: absolute;
+    top: 170px;
+    left: 335px;
+    background-color: skyblue;
+    padding: 10px;
+    font-family: sans-serif;
+}
+
+#fullshoppingcart button:hover {
+    cursor: pointer;
+}
+
+#fullshoppingcart h3:hover {
+    cursor: pointer;
+}
+
+#purchasecomplet {
+    background-color: gainsboro;
+    width: 400px;
+    height: 200px;
+    position: fixed;
+    top: 200px;
+    padding: 10px;
+    right: 450px;
+    z-index: 100;
+    font-family: sans-serif;
+}
+
+#purchasecomplet h2 {
+    text-align: center;
+    padding: 90px 10px;
+    margin: 0;
+}
+
+#purchasecomplet h3 {
+    position: fixed;
+    font-size: 25pt;
+    top: 170px;
+    color: black;
+    width: 50px;
+}
+
+#purchasecomplet h3:hover {
+    cursor: pointer;
+}
+
+h3#emptyshopping {
+    position: absolute;
+    background-color: white;
+    text-align: center;
+    border-radius: 100px;
+    padding: 5px;
+    width: 40px;
+    margin-left: 340px;
+    top: 58px;
+}
+
+main h3 {
+    position: absolute;
+    top: 450px;
+    font-size: 25pt;
+    left: 300px;
+    background-color: gainsboro;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: sans-serif;
+}
+
+#colorcontainer img.select {
+    border: 2px solid red;
+}
+
+main h2 {
+    background-color: darksalmon;
+    position: absolute;
+    top: 500px;
+    font-family: sans-serif;
+    left: 970px;
+    padding: 10px;
+    box-shadow: 0 4px 5px 0 rgba(68, 68, 68, 0.5);
+    cursor: pointer;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    margin: 5px;
+}
+
+
+
