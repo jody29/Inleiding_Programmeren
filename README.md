@@ -6,3 +6,6 @@ De odpracht was om een website te maken doormiddel van HTML, CSS en JS. Hierbij 
 
 ### Beoordeling
 Voor dit vak heb ik nog nooit met Javascript gewerkt, desondanks had ik het toch heel erg snel al onder de knie. Ik leerde zelfs zo snel dat ik 3 weken voor de eindbeoordeling al mijn mondeling mocht doen. Ik heb voor deze odpracht dan ook een 9 gekregen. Hierbij is alleen de JavaScript beoordeeld.
+
+### Live site
+De live site is hier te bekijken https://jody29.github.io/Inleiding_Programmeren/
